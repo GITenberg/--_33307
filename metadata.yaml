@@ -1,0 +1,29 @@
+_repo: --_33307
+_version: 0.1.0
+alternative_title: Yujo
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mushanokoji, Saneatsu
+    alias: 武者小路実篤
+    birthdate: 1885
+    deathdate: 1976
+    gutenberg_agent_id: '35449'
+    url: http://www.gutenberg.org/2009/agents/35449
+    wikipedia: http://en.wikipedia.org/wiki/Saneatsu_Mushanok%C5%8Dji
+description: ''
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33307'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PL'
+title: 友情
+url: http://www.gutenberg.org/ebooks/33307
